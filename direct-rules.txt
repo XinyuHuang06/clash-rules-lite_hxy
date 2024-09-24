@@ -2,5 +2,7 @@ payload:
   - DOMAIN-SUFFIX,.cn
   - DOMAIN-KEYWORD,xbox  
   - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,ieee
+  - DOMAIN-KEYWORD,sysu
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,gamepass.com
